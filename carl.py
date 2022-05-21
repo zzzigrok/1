@@ -5,7 +5,6 @@ import random
 from discord import Permissions
 from colorama import Fore, Style
 import asyncio
-import keep_alive
 import discord
 from discord.ext import commands
 from discord import Permissions
