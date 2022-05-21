@@ -98,5 +98,5 @@ async def on_guild_channel_create(channel):
         except:
           break
 
-TOKEN = 'OTY5OTk5MjAwODk5MTg2NzM4.Ym1kJw.PoLIdO5xTlmnxFwH--eqAMi9fjM'
+TOKEN = 'OTY5OTk5MjAwODk5MTg2NzM4.G66pTt.l9K9bsc_QqcUgPOcuImHqopZo03b5BlsxUmEGs'
 client.run(TOKEN)
